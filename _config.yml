@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Maggie Moore-Alexander
   pic: 1
-  position: Lead Designer
+  position: Centre for Environmental Structure
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Enzo Zecchi
   pic: 2
-  position: Lead Marketer
+  position: Lepida Scuola
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Peter Russell
   pic: 3
-  position: Lead Developer
+  position: University at Buffalo
   social:
     - title: twitter
       url: #

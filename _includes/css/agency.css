@@ -19,8 +19,9 @@ body {
 }
 
 p {
+    text-align: left;
     font-size: 14px;
-    line-height: 1.75;
+    line-height: 2.75;
 }
 
 p.large {
